@@ -1,0 +1,22 @@
+{
+  "name": "slidergram",
+  "version": "1.0.0",
+  "description": "Fun & Simple Slideshow that uses the Instagram API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bocadito/slidergram.git"
+  },
+  "author": "J&H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bocadito/slidergram/issues"
+  },
+  "homepage": "https://github.com/bocadito/slidergram#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
