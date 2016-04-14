@@ -1,6 +1,6 @@
 var clientid = '2f514aa37c7b4ac682a63751793263ff',
     username = 'rudrastyh', // rudrastyh - my username :)
-    num_photos = 4;
+    num_photos = 10;
 
     $.ajax({
         url: 'https://api.instagram.com/v1/users/' + username + '/media/recent',
